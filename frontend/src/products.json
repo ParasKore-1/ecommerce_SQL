@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": "$120",
+      "image": "https://example.com/headphones.jpg",
+      "description": "High-quality wireless headphones with noise cancellation and deep bass."
+    },
+    {
+      "id": 2,
+      "name": "Smartwatch",
+      "price": "$250",
+      "image": "https://example.com/smartwatch.jpg",
+      "description": "A stylish smartwatch with fitness tracking and long battery life."
+    },
+    {
+      "id": 3,
+      "name": "Gaming Laptop",
+      "price": "$1500",
+      "image": "https://example.com/laptop.jpg",
+      "description": "Powerful gaming laptop with RTX graphics and high refresh rate display."
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "price": "$80",
+      "image": "https://example.com/speaker.jpg",
+      "description": "Portable Bluetooth speaker with rich sound and deep bass."
+    },
+    {
+      "id": 5,
+      "name": "4K Smart TV",
+      "price": "$900",
+      "image": "https://example.com/tv.jpg",
+      "description": "Ultra HD 4K Smart TV with HDR and voice assistant support."
+    },
+    {
+      "id": 6,
+      "name": "Wireless Mouse",
+      "price": "$40",
+      "image": "https://example.com/mouse.jpg",
+      "description": "Ergonomic wireless mouse with high precision and fast response."
+    },
+    {
+      "id": 7,
+      "name": "Mechanical Keyboard",
+      "price": "$100",
+      "image": "https://example.com/keyboard.jpg",
+      "description": "RGB mechanical keyboard with customizable keys and fast switches."
+    },
+    {
+      "id": 8,
+      "name": "VR Headset",
+      "price": "$350",
+      "image": "https://example.com/vr.jpg",
+      "description": "Immersive VR headset with high resolution and precise tracking."
+    },
+    {
+      "id": 9,
+      "name": "Drone Camera",
+      "price": "$600",
+      "image": "https://example.com/drone.jpg",
+      "description": "High-quality drone camera with 4K video recording and GPS tracking."
+    },
+    {
+      "id": 10,
+      "name": "Smart Light Bulb",
+      "price": "$30",
+      "image": "https://example.com/lightbulb.jpg",
+      "description": "WiFi-enabled smart light bulb with adjustable brightness and colors."
+    },
+    {
+      "id": 11,
+      "name": "Fitness Tracker",
+      "price": "$150",
+      "image": "https://example.com/fitnesstracker.jpg",
+      "description": "Advanced fitness tracker with heart rate monitoring and sleep tracking."
+    },
+    {
+      "id": 12,
+      "name": "Portable Power Bank",
+      "price": "$50",
+      "image": "https://example.com/powerbank.jpg",
+      "description": "Fast-charging portable power bank with 20000mAh capacity."
+    },
+    {
+      "id": 13,
+      "name": "Smart Thermostat",
+      "price": "$180",
+      "image": "https://example.com/thermostat.jpg",
+      "description": "Energy-efficient smart thermostat with remote control."
+    },
+    {
+      "id": 14,
+      "name": "Wireless Earbuds",
+      "price": "$90",
+      "image": "https://example.com/earbuds.jpg",
+      "description": "Compact wireless earbuds with noise cancellation and deep bass."
+    },
+    {
+      "id": 15,
+      "name": "Smart Security Camera",
+      "price": "$200",
+      "image": "https://example.com/securitycamera.jpg",
+      "description": "HD security camera with night vision and motion detection."
+    },
+    {
+      "id": 16,
+      "name": "Electric Scooter",
+      "price": "$500",
+      "image": "https://example.com/scooter.jpg",
+      "description": "Compact and fast electric scooter with long battery life."
+    },
+    {
+      "id": 17,
+      "name": "External Hard Drive",
+      "price": "$120",
+      "image": "https://example.com/harddrive.jpg",
+      "description": "2TB external hard drive with high-speed data transfer."
+    },
+    {
+      "id": 18,
+      "name": "Action Camera",
+      "price": "$350",
+      "image": "https://example.com/actioncamera.jpg",
+      "description": "Waterproof action camera with 4K recording and stabilization."
+    },
+    {
+      "id": 19,
+      "name": "Coffee Maker",
+      "price": "$100",
+      "image": "https://example.com/coffeemaker.jpg",
+      "description": "Automatic coffee maker with multiple brewing options."
+    },
+    {
+      "id": 20,
+      "name": "Portable Projector",
+      "price": "$400",
+      "image": "https://example.com/projector.jpg",
+      "description": "Compact portable projector with full HD resolution and wireless connectivity."
+    }
+  ]
+  
